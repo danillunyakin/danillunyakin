@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danillunyakin
-- 👀 I’m interested in Web-Bevolpment
+- 👀 I’m interested in Web-Devolpment
 - 🌱 I’m currently learning HTML CSS(SCSS) JS 
 - 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me telegram: @danlug66
